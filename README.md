@@ -1,24 +1,46 @@
 # JavaScript-20-Projects-In-20-Days-HTML-CSS-JavaScript
 8.5 hour Udemy course by Vijay Kumar
 
-1. News Article Pop-up  
-2. CSS Changer  
-3. Counter Web  
-4. Live Character Count  
-5. Random Number Generator  
-6. Weight Converter  
-7. Code Editor  
-8. Day of the Week  
-9. Stop-Watch  
-10. Write-a-Message  
-11. FORM Validation  
-12. Color Changer With Button  
-13. Accordion Project  
-14. Telephone Formatter  
-15. Cursor Animation  
-16. HEX Color Generator  
-17. Piano Application  
-18. Background Color  
-19. The Popover  
-20. FD Calculator
+<table>
+  <tr>
+    <td>1. News Article Pop-up</td>
+    <td>2. CSS Changer</td>
+  </tr>
+  <tr>
+    <td>3. Counter Web</td>
+    <td>4. Live Character Count</td>
+  </tr>
+  <tr>
+    <td>5. Random Number Generator</td>
+    <td>6. Weight Converter</td>
+  </tr>
+  <tr>
+    <td>7. Code Editor</td>
+    <td>8. Day of the Week</td>
+  </tr>
+  <tr>
+    <td>9. Stop-Watch</td>
+    <td>10. Write-a-Message</td>
+  </tr>
+  <tr>
+    <td>11. FORM Validation</td>
+    <td>12. Color Changer With Button</td>
+  </tr>
+  <tr>
+    <td>13. Accordion Project</td>
+    <td>14. Telephone Formatter</td>
+  </tr>
+  <tr>
+    <td>15. Cursor Animation</td>
+    <td>16. HEX Color Generator</td>
+  </tr>
+  <tr>
+    <td>17. Piano Application</td>
+    <td>18. Background Color</td>
+  </tr>
+  <tr>
+    <td>19. The Popover</td>
+    <td>20. FD Calculator</td>
+  </tr>
+</table>
 
