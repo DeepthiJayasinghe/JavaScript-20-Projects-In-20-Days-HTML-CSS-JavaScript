@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td><a href="https://your-username.github.io/your-repo/News-Article-Popup/">1. News Article Pop-up</a></td>
-    <td><a href="https://your-username.github.io/your-repo/CSS-Changer/">2. CSS Changer</a></td>
+    <td><a href="https://your-username.github.io/your-repo/02.%20CSS%20Changer/">2. CSS Changer</a></td>
     <td><a href="https://your-username.github.io/your-repo/Counter-Web/">3. Counter Web</a></td>
     <td><a href="https://your-username.github.io/your-repo/Live-Character-Count/">4. Live Character Count</a></td>
   </tr>
